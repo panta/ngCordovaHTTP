@@ -4,7 +4,7 @@
   "main": "dist/ng-cordova-http.js",
   "version": "0.1.4",
   "repository": {
-    "url": "git://github.com/panta/cordova-HTTP.git"
+    "url": "git://github.com/panta/ngCordovaHTTP.git"
   },
   "devDependencies": {
   },
