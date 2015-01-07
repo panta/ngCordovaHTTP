@@ -1,0 +1,41 @@
+{
+  "name": "ngCordovaHTTP",
+  "version": "0.1.4",
+  "homepage": "https://github.com/panta/cordova-HTTP",
+  "authors": [
+    "Andrew Stephan <andrewrstephan@gmail.com>",
+    "Marco Pantaleoni <marco.pantaleoni@gmail.com>"
+  ],
+  "description": "AngularJS Cordova wrappers for cordova-HTTP",
+  "main": [
+    "./dist/ng-cordova-http.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "gulpfile.js",
+    "test",
+    "src",
+    "config",
+    "demo",
+    "CONTRIBUTING.md"
+  ],
+  "dependencies": {
+    "angular": ">= 1.2.23"
+  },
+  "keywords": [
+    "ngCordovaHTTP",
+    "cordova-HTTP",
+    "HTTP",
+    "cordova",
+    "phonegap",
+    "angular",
+    "angularjs",
+    "cordova plugin"
+  ],
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "angular": ">= 1.2.23",
+    "jquery": "~2.1.1"
+  }
+}

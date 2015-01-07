@@ -1,0 +1,18 @@
+{
+  "name": "ngCordovaHTTP",
+  "private": false,
+  "main": "dist/ng-cordova-http.js",
+  "version": "0.1.4",
+  "repository": {
+    "url": "git://github.com/panta/cordova-HTTP.git"
+  },
+  "devDependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "scripts": {
+  }
+}
