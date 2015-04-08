@@ -1,6 +1,6 @@
 {
   "name": "ngCordovaHTTP",
-  "version": "0.1.4",
+  "version": "0.1.5-alpha.1",
   "homepage": "https://github.com/panta/ngCordovaHTTP",
   "authors": [
     "Andrew Stephan <andrewrstephan@gmail.com>",
