@@ -1,7 +1,7 @@
 /*global angular*/
 
 if (typeof angular !== "undefined") {
-    angular.module('ngCordovaHTTP', []).factory('cordovaHTTP', function($timeout, $q) {
+    angular.module('ngCordovaHTTP', []).factory('cordovaHTTP', ['$timeout', '$q', function($timeout, $q) {
         var http = null;
 
         if (typeof cordova !== "undefined") {
@@ -66,5 +66,5 @@ if (typeof angular !== "undefined") {
             }
         };
         return cordovaHTTP;
-    });
+    }]);
 }
